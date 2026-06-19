@@ -1,0 +1,15 @@
+[
+  { "package": "areaOfEffect", "url": "https://github.com/gcol33/areaofeffect" },
+  { "package": "BORG", "url": "https://github.com/gcol33/borg" },
+  { "package": "corrselect", "url": "https://github.com/gcol33/corrselect" },
+  { "package": "couplr", "url": "https://github.com/gcol33/couplr" },
+  { "package": "ggguides", "url": "https://github.com/gcol33/ggguides" },
+  { "package": "hexify", "url": "https://github.com/gcol33/hexify" },
+  { "package": "joinspy", "url": "https://github.com/gcol33/joinspy" },
+  { "package": "keyed", "url": "https://github.com/gcol33/keyed" },
+  { "package": "restrictR", "url": "https://github.com/gcol33/restrictr" },
+  { "package": "taxifydb", "url": "https://github.com/gcol33/taxifydb" },
+  { "package": "texanshootR", "url": "https://github.com/gcol33/texanshootr" },
+  { "package": "tulpaMesh", "url": "https://github.com/gcol33/tulpamesh" },
+  { "package": "vectra", "url": "https://github.com/gcol33/vectra" }
+]
