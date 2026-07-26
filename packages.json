@@ -10,6 +10,7 @@
   { "package": "restrictR", "url": "https://github.com/gcol33/restrictr" },
   { "package": "taxifydb", "url": "https://github.com/gcol33/taxifydb" },
   { "package": "texanshootR", "url": "https://github.com/gcol33/texanshootr" },
+  { "package": "topocast", "url": "https://github.com/gcol33/topocast" },
   { "package": "tulpaMesh", "url": "https://github.com/gcol33/tulpamesh" },
   { "package": "vectra", "url": "https://github.com/gcol33/vectra" }
 ]
