@@ -3,6 +3,7 @@
   { "package": "BORG", "url": "https://github.com/gcol33/borg" },
   { "package": "corrselect", "url": "https://github.com/gcol33/corrselect" },
   { "package": "couplr", "url": "https://github.com/gcol33/couplr" },
+  { "package": "getaca", "url": "https://github.com/gcol33/getaca" },
   { "package": "ggguides", "url": "https://github.com/gcol33/ggguides" },
   { "package": "hexify", "url": "https://github.com/gcol33/hexify" },
   { "package": "joinspy", "url": "https://github.com/gcol33/joinspy" },
