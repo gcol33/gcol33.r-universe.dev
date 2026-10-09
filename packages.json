@@ -8,6 +8,7 @@
   { "package": "hexify", "url": "https://github.com/gcol33/hexify" },
   { "package": "joinspy", "url": "https://github.com/gcol33/joinspy" },
   { "package": "keyed", "url": "https://github.com/gcol33/keyed" },
+  { "package": "OccurrenceCleaner", "url": "https://github.com/gcol33/OccurrenceCleaner" },
   { "package": "restrictR", "url": "https://github.com/gcol33/restrictr" },
   { "package": "taxify", "url": "https://github.com/gcol33/taxify" },
   { "package": "taxifydb", "url": "https://github.com/gcol33/taxifydb" },
