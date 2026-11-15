@@ -9,6 +9,7 @@
   { "package": "hexify", "url": "https://github.com/gcol33/hexify" },
   { "package": "joinspy", "url": "https://github.com/gcol33/joinspy" },
   { "package": "keyed", "url": "https://github.com/gcol33/keyed" },
+  { "package": "linop.primme", "url": "https://github.com/gcol33/linop.primme" },
   { "package": "OccurrenceCleaner", "url": "https://github.com/gcol33/OccurrenceCleaner" },
   { "package": "restrictR", "url": "https://github.com/gcol33/restrictr" },
   { "package": "taxify", "url": "https://github.com/gcol33/taxify" },
