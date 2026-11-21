@@ -18,6 +18,7 @@
   { "package": "timesift", "url": "https://github.com/gcol33/timesift" },
   { "package": "topocast", "url": "https://github.com/gcol33/topocast" },
   { "package": "tulpa", "url": "https://github.com/gcol33/tulpa" },
+  { "package": "tulpaGPU", "url": "https://github.com/gcol33/tulpagpu" },
   { "package": "tulpaMesh", "url": "https://github.com/gcol33/tulpamesh" },
   { "package": "tulpaObs", "url": "https://github.com/gcol33/tulpaobs" },
   { "package": "tulpaRatio", "url": "https://github.com/gcol33/tulparatio" },
